@@ -1,36 +1,4 @@
 
-Navigation Menu
-dikogp99
-/
-decotv18062023
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Owner avatar
-decotv18062023
-Public
-dikogp99/decotv18062023
-Add file
-Folders and files
-Name		
-Latest commit
-dikogp99
-dikogp99
-Update README.md
-1fa96af
- · 
-8 hours ago
-History
-README.md
-Update README.md
-8 hours ago
-Repository files navigation
-README
 //======================================================================== ----------------lokal -------------------------------- //========================================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="🇮🇩 LOKAL ID Auto", MOJI HD #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
