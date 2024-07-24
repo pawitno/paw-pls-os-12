@@ -241,37 +241,37 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1
 //copy right by,@hometv menampilkan playlist >>> SPORTS INDO
 //========================================================================
 
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title="ðŸ‡®ðŸ‡© | SPORTS ID",SPORTSTARS 1  
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title=" SPORTS INDO",SPORTSTARS 1  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title="ðŸ‡®ðŸ‡© | SPORTS ID",SPORTSTARS 2  
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title=" SPORTS INDO",SPORTSTARS 2  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title="ðŸ‡®ðŸ‡© | SPORTS ID",SPORTSTARS 3  
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title=" SPORTS INDO",SPORTSTARS 3  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title="ðŸ‡®ðŸ‡© | SPORTS ID",SPORTSTARS 4  
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title=" SPORTS INDO",SPORTSTARS 4  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/soccer_channel.png" group-title="ðŸ‡®ðŸ‡© | SPORTS ID",SOCCER CHANNEL  
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/soccer_channel.png" group-title=" SPORTS INDO",SOCCER CHANNEL  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv1.png" group-title="ðŸ‡®ðŸ‡© | SPORTS ID",SPO TV 1  
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv1.png" group-title=" SPORTS INDO",SPO TV 1  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv2.png" group-title="ðŸ‡®ðŸ‡© | SPORTS ID",SPO TV 2  
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv2.png" group-title=" SPORTS INDO",SPO TV 2  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/tvri_sports.png" group-title="ðŸ‡®ðŸ‡© | SPORTS ID",TVRI SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/tvri_sports.png" group-title=" SPORTS INDO",TVRI SPORT HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/fight_sports.png" group-title="ðŸ‡®ðŸ‡© | SPORTS ID",FIGHT SPORTS  
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/fight_sports.png" group-title=" SPORTS INDO",FIGHT SPORTS  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
